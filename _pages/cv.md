@@ -11,21 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of New South Wales, 2021
+* Honors Year in Computer Science, Monash University 2022 (expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
+* Autumn 2020: Research Assitant
+  * Monash University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: A.P [Reza Haffari](http://users.monash.edu.au/~gholamrh/)
+
+* Autumn 2020: Research Assitant
+  * Business School, University of New South Wales
+  * Duties included: Merging pull requests
+  * Supervisor: Mr [Junbum Kwon](https://www.business.unsw.edu.au/our-people/jun-bum-kwon)
+
+* Spring 2020: Casual Academic
+  * School of EE&T, University of New South Wales
+  * Duties included: Merging pull requests
+  * Supervisor: Dr [Ke Meng](https://research.unsw.edu.au/people/dr-ke-meng)
+
+* Summer 2019: Software Engineering Intern
+  * Microsoft, Shanghai
+  * Duties included: Tagging issues
+  * Supervisor: [Yiyu Liu](yiyli@microsoft.com)
+
+
   
 Skills
 ======
