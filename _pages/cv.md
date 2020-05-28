@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, University of New South Wales, 2021
-* Start Honors Year in Computer Science, Monash University 2022 (expected)
+* Start Honors Year in Computer Science, Monash University, 2022 (expected)
 * Looking for PhD opportunities
 
 Work experience
@@ -35,7 +35,7 @@ Work experience
 * Summer 2019: Software Engineering Intern
   * Microsoft, Shanghai
   * Duties included: Tagging issues
-  * Supervisor: [Yiyu Liu](yiyli@microsoft.com)
+  * Supervisor: [Yiyu Liu](Yiyu Liu:yiyli@microsoft.com)
 
 
   
