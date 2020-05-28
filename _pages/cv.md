@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Autumn 2020: Research Assitant
+* Autumn 2020: Research Assistant
   * Monash University
   * Duties included: Merging pull requests
   * Supervisor: A.P [Reza Haffari](http://users.monash.edu.au/~gholamrh/)
