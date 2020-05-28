@@ -8,4 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is Terry!
+This is Terry Yue Zhuo [@CQC2T](https://www.cqc2t.org/)
+
+Research Interests:
+======
+* Digital Signal Processing
+  * Quantum Computing Application
+  * Speech Recognition
+* Natural Language Processing
+  * Question Answering
+  * Machine Reading Comprehension
+  * Language Model
