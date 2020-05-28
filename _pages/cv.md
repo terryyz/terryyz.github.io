@@ -12,15 +12,15 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, University of New South Wales, 2021
-* Honors Year in Computer Science, Monash University 2022 (expected)
-
+* Start Honors Year in Computer Science, Monash University 2022 (expected)
+* Looking for PhD opportunities
 
 Work experience
 ======
 * Autumn 2020: Research Assistant
   * Monash University
-  * Duties included: Merging pull requests
-  * Supervisor: A.P [Reza Haffari](http://users.monash.edu.au/~gholamrh/)
+  * Duties included: Investing Machine Reasoning topics
+  * Supervisor: Prof [Reza Haffari](http://users.monash.edu.au/~gholamrh/)
 
 * Autumn 2020: Research Assitant
   * Business School, University of New South Wales
