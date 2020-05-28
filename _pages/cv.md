@@ -35,7 +35,7 @@ Work experience
 * Summer 2019: Software Engineering Intern
   * Microsoft, Shanghai
   * Duties included: Tagging issues
-  * Supervisor: [Yiyu Liu](Yiyu Liu:yiyli@microsoft.com)
+  * Supervisor: [Yiyu Liu](<yiyli@microsoft.com>)
 
 
   
