@@ -12,7 +12,7 @@ Education
 ======
 
 * B.S. in Computer Science, University of New South Wales, 2021
-* Start Honors Year in Computer Science, Monash University, 2022 (expected)
+* Start Honors Year in Computer Science, Monash University, 2021 (expected)
 * Looking for PhD opportunities
 
 Work experience
@@ -38,21 +38,23 @@ Work experience
 
 * Summer 2019: Software Engineering Intern
   * Microsoft, Shanghai
-  * Area: Azure Adoption
+  * Team: Azure Adoption
   * Supervisor: Yiyu Liu <yiyli@microsoft.com>
 
 
 
 Publications
 ======
-  Working on a paper...
+  Working on a paper on common sense reasoning...
   
   
 Teaching
 ======
-* [ENGG1000](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/ENGG1000)
+* [ENGG1000: Introduction to Engineering Design and Innovation](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/ENGG1000)
   
 Service and leadership
+
 ======
-* Acadmics Team Subcommitte [@ESLOC](http://www.elsoc.net/)
+
+* Academics Team Subcommitte [@ESLOC](http://www.elsoc.net/)
 * Power Engineer [@BLUESAT](https://bluesat.com.au/)
