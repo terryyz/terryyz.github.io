@@ -23,7 +23,7 @@ Work experience
   * Duties included: Invesgating Machine Reasoning topics
   * Supervisor: Prof [Reza Haffari](http://users.monash.edu.au/~gholamrh/)
 
-* Autumn 2020: Research Assitant
+* Autumn 2020: Research Assistant
   * Business School, University of New South Wales
   * Project: Social Media Advertising on recycled products
   * Supervisor: Mr [Junbum Kwon](https://www.business.unsw.edu.au/our-people/jun-bum-kwon)
