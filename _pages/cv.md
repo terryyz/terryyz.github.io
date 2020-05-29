@@ -52,9 +52,9 @@ Teaching
 ======
 * [ENGG1000: Introduction to Engineering Design and Innovation](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/ENGG1000)
   
-  
+
 Service and leadership
 ======
 
-* Academics Team Subcommitte [@ESLOC](http://www.elsoc.net/)
+* Academics Team Subcommittee [@ESLOC](http://www.elsoc.net/)
 * Power Engineer [@BLUESAT](https://bluesat.com.au/)
