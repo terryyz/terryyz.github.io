@@ -20,7 +20,7 @@ Work experience
 
 * Autumn 2020: Research Assistant
   * Monash University
-  * Duties included: Invesgating Machine Reasoning topics
+  * Duties included: Investigating Machine Reasoning topics
   * Supervisor: Prof [Reza Haffari](http://users.monash.edu.au/~gholamrh/)
 
 * Autumn 2020: Research Assistant
