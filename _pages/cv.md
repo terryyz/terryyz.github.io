@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 
-* B.S. in Computer Science, University of New South Wales, 2021 (expected)
+* B.S. in Computer Science (Electrical Engineering minor), University of New South Wales, 2021 (expected)
 * Start Honors Year in Computer Science (NLP), Monash University, 2021 (expected)
 * Looking for PhD opportunities
 
