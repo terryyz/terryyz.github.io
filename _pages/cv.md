@@ -11,8 +11,8 @@ redirect_from:
 Education
 ======
 
-* B.S. in Computer Science, University of New South Wales, 2021
-* Start Honors Year in Computer Science, Monash University, 2021 (expected)
+* B.S. in Computer Science, University of New South Wales, 2021 (expected)
+* Start Honors Year in Computer Science (NLP), Monash University, 2021 (expected)
 * Looking for PhD opportunities
 
 Work experience
@@ -20,7 +20,7 @@ Work experience
 
 * Autumn 2020: Research Assistant
   * Monash University
-  * Duties included: Investigating Machine Reasoning topics
+  * Duties included: Investigating Commonsense reasoning topics
   * Supervisor: Prof [Reza Haffari](http://users.monash.edu.au/~gholamrh/)
 
 * Autumn 2020: Research Assistant
@@ -39,13 +39,14 @@ Work experience
 * Summer 2019: Software Engineering Intern
   * Microsoft, Shanghai
   * Team: Azure Adoption
-  * Supervisor: Yiyu Liu <yiyli@microsoft.com>
+  * Supervisor: Yiyu Liu _yiyli at microsoft dot com_
 
 
 
 Publications
 ======
-  Working on a paper on common sense reasoning...
+* Contributed to a paper which will be submitted to Journal of Consumer Psychology.
+* Working on a paper on commonsense reasoning...
   
   
 Teaching
