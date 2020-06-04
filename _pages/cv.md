@@ -39,7 +39,7 @@ Work experience
 * Summer 2019: Software Engineering Intern
   * Microsoft, Shanghai
   * Team: Azure Adoption
-  * Supervisor: Yiyu Liu _yiyli at microsoft dot com_
+  * Supervisor: Yiyu Liu (_yiyli at microsoft dot com_)
 
 
 
