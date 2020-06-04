@@ -51,7 +51,7 @@ Publications
 Teaching
 ======
 * [ENGG1000: Introduction to Engineering Design and Innovation](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/ENGG1000)
-  
+* [ENGG2134: Circuits and Signals](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/elec2134) 
 
 Service and leadership
 ======
