@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-To See the full version: [Resume](/resume.pdf)
+To see the full version: [Resume](/resume.pdf)
 
 Education
 ======
