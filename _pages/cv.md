@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+To See the full version: [Resume](/resume.pdf)
 
 Education
 ======
@@ -23,10 +24,6 @@ Work experience
   * Duties included: Investigating Commonsense reasoning topics
   * Supervisor: Prof [Reza Haffari](http://users.monash.edu.au/~gholamrh/)
 
-* Autumn 2020: Research Assistant
-  * Business School, University of New South Wales
-  * Project: Social Media Advertising on recycled products
-  * Supervisor: Mr [Junbum Kwon](https://www.business.unsw.edu.au/our-people/jun-bum-kwon)
 
 * Spring 2020: Casual Academic
   * School of EE&T, University of New South Wales
