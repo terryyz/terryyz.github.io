@@ -22,7 +22,8 @@ Work experience
 * Autumn 2020: Research Assistant
   * Monash University
   * Duties included: Investigating Commonsense reasoning topics
-  * Supervisor: Prof [Reza Haffari](http://users.monash.edu.au/~gholamrh/)
+  * Supervisor: Prof [Reza Haffari](http://users.monash.edu.au/~gholamrh/) & Dr [Lizhen Qu](https://research.monash.edu/en/persons/lizhen-qu)
+  * Worked with: Dr [Xiaojun Chang](https://www.xiaojun.ai/)
 
 
 * Spring 2020: Casual Academic
