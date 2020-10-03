@@ -11,4 +11,4 @@ author_profile: true
 
 **COSMO: Conditional SEQ2SEQ-based Mixture Model for Zero-ShotCommonsense Question Answering**  
 Farhad Moghimifar, Lizhen Qu, **_Yue Zhuo_**, Mahsa Baktashmotlagh and Gholamreza Haffari  
-Accepted to the CInternational Conference on Computational Linguistics (COLING), 2020.
+Accepted to the International Conference on Computational Linguistics (COLING), 2020.
