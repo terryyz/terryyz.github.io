@@ -13,11 +13,14 @@ Education
 ======
 
 * B.S. in Computer Science (Electrical Engineering minor), University of New South Wales, 2021 (expected)
-* Start Honors Year in Computer Science (NLP), Monash University, 2021 (expected)
+* Start Honors Year in Computer Science (NLP), Monash University, 2022 (expected)
 * Looking for PhD opportunities
 
 Work experience
 ======
+* Summer 2020: Research Assistant
+  * Data61
+  * Work with: Prof [Conrad Sanderson](https://conradsanderson.id.au/)
 
 * Autumn 2020: Research Assistant
   * Monash University
@@ -38,14 +41,6 @@ Work experience
   * Microsoft, Shanghai
   * Team: Azure Adoption
   * Supervisor: Yiyu Liu (_yiyli at microsoft dot com_)
-
-
-
-Publications
-======
-* Contributed to a paper which will be submitted to Journal of Consumer Psychology.
-* Working on a paper on commonsense reasoning...
-  
   
 Teaching
 ======
