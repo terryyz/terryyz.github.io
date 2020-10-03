@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-This is Terry Yue Zhuo [@CQC2T](https://www.cqc2t.org/)
+This is Terry Yue Zhuo [@MONASHINFO](https://umlt.infotech.monash.edu/)
+
+News:
+======
+* Oct 1st, 2020: Our long paper has been accepted by COLING! (Accept rate 32.9%)
+* Nov: I will work with [Conrad Sanderson](http://conradsanderson.id.au/) this summer on the improvement of tools for data analytics and machine learning.
 
 Research Interests:
-======
-* Digital Signal Processing
-  * Quantum Computing Application
-  * Speech Recognition
+===================
 * Natural Language Processing
+  * Causal Reasoning
   * Question Answering
   * Machine Reading Comprehension
   * Language Model
+
+* Multimodal
