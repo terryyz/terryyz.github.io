@@ -24,4 +24,4 @@ Research Interests:
   * Machine Reading Comprehension
   * Language Model
 
-* Multimodal
+* Multimodal Reasoning
