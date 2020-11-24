@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Terry Yue Zhuo [@MONASHINFO](https://umlt.infotech.monash.edu/)
+This is Terry Yue Zhuo [@MONASHINFO](https://umlt.infotech.monash.edu/) & [@UNSW](https://www.unsw.edu.au/)
 
 News:
 ======
