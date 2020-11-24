@@ -23,5 +23,6 @@ Research Interests:
   * Question Answering
   * Machine Reading Comprehension
   * Language Model
+  * Application
 
-* Multimodal Reasoning
+* Vision-language Groundings
