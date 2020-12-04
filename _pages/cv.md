@@ -13,7 +13,7 @@ Education
 ======
 
 * B.S. in Computer Science (Electrical Engineering minor), University of New South Wales, 2021 (expected)
-* Start Honors Year in Computer Science (NLP), Monash University, 2022 (expected)
+* Start Honors Year in Computer Science (NLP), 2022 (expected)
 * Looking for PhD opportunities
 
 Work experience
