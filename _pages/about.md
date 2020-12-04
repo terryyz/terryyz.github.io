@@ -12,7 +12,7 @@ This is Terry Yue Zhuo [@MONASHINFO](https://umlt.infotech.monash.edu/) & [@UNSW
 
 News:
 ======
-* **2021**: I will have a gap period before my Honors Year (expected Sep 2021 - Mar 2022). Actively looking for visiting opportunities/research internships!
+* **2021**: I will have a gap period before my Honors Year (Sep 2021 - Mar 2022). Actively looking for visiting opportunities/research internships!
 * **Dec 2020**: I start working on [Armadillo](http://arma.sourceforge.net/) API in Python (will be open-source) with [Conrad Sanderson](http://conradsanderson.id.au/). 
 * **Dec 2020**: I joined [Harrison.ai](https://www.harrison.ai/) as an Applied AI scientist intern! Happy to work with [Ben Hachey](http://benhachey.info/):)
 * **Nov 2020**: I rejected [TOR scholarship](https://www.engineering.unsw.edu.au/student-life/taste-of-research/advertised-taste-of-research-areas) offered by [Abdallah Saffidine](https://cgi.cse.unsw.edu.au/~abdallahs/) for some reasons. ~~Hence, 
