@@ -18,26 +18,29 @@ Education
 
 Work experience
 ======
-* Summer 2020: Research Assistant
+* Dec 2020: Applied AI scientist intern
+  * Harrison.ai
+  * Work with: Dr [Ben Hachey](http://benhachey.info/)
+
+* Dec 2020: Research Assistant
   * Data61
   * Work with: Prof [Conrad Sanderson](https://conradsanderson.id.au/)
 
-* Autumn 2020: Research Assistant
+* May 2020: Research Assistant
   * Monash University
   * Duties included: Investigating Commonsense reasoning topics
   * Supervisor: Prof [Reza Haffari](http://users.monash.edu.au/~gholamrh/) & Dr [Lizhen Qu](https://research.monash.edu/en/persons/lizhen-qu)
   * Work with: Dr [Xiaojun Chang](https://www.xiaojun.ai/)
 
-
-* Spring 2020: Casual Academic
+* Feb 2020: Casual Academic
   * School of EE&T, University of New South Wales
 
-* Summer 2019: Research Student
+* Oct 2019: Research Student
   * [CQC2T, UNSW](https://www.cqc2t.org/)
   * Project: Development of a digital lock-in amplifier for quantum computing experiments
   * Supervisor: Dr [Arne Laucht](https://www.cqc2t.org/author/a-laucht/)
 
-* Summer 2019: Software Engineering Intern
+* Nov 2019: Software Engineering Intern
   * Microsoft, Shanghai
   * Team: Azure Adoption
   * Supervisor: Yiyu Liu (_yiyli at microsoft dot com_)
