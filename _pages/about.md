@@ -17,7 +17,7 @@ News:
 * **Dec 2020**: I joined [Harrison.ai](https://www.harrison.ai/) as an Applied AI scientist intern! Happy to work with [Ben Hachey](http://benhachey.info/):)
 * **Nov 2020**: I rejected [TOR scholarship](https://www.engineering.unsw.edu.au/student-life/taste-of-research/advertised-taste-of-research-areas) offered by [Abdallah Saffidine](https://cgi.cse.unsw.edu.au/~abdallahs/) for some reasons. ~~Hence, 
 I will start looking for internships this summer from Dec 2020 to Feb 2021.~~
-* ~~**Nov 2020**: I will work with [Conrad Sanderson](http://conradsanderson.id.au/) this summer on an open source project about the improvement of tools for data analytics and machine learning.~~
+* ~~**Nov 2020**: I will work with [Conrad Sanderson](http://conradsanderson.id.au/) this summer on an open-source project about the improvement of tools for data analytics and machine learning.~~
 * **Oct 1st, 2020**: Our long paper has been accepted by COLING! (Acceptance Rate 32.9%)
 
 
