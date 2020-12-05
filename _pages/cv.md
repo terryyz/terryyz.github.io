@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Dec 2020 - Present: Applied AI scientist intern
+* Dec 2020 - Present: Applied AI Scientist Intern
   * Harrison.ai
   * Work with: Dr [Ben Hachey](http://benhachey.info/)
 
