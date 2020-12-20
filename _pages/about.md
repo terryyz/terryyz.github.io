@@ -10,10 +10,10 @@ redirect_from:
 
 This is Terry Yue Zhuo [@MONASHINFO](https://umlt.infotech.monash.edu/) & [@UNSW](https://www.unsw.edu.au/).  
 
-* My rules of study:
-  * I spend 3-4 weeks in total on my coursework during each term.
-  * Keeping WAM above HD is only because it is the requirement of PhD scholarships.
-  * D.W.I.C (doing well in class) is never enough!
+**My rules of study**:
+* I spend 3-4 weeks in total on my coursework during each term.
+* Keeping WAM above HD is only because it is the requirement of PhD scholarships.
+* D.W.I.C (doing well in class) is never enough!
 
 News:
 ======
