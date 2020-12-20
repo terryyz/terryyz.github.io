@@ -11,7 +11,7 @@ redirect_from:
 This is Terry Yue Zhuo [@MONASHINFO](https://umlt.infotech.monash.edu/) & [@UNSW](https://www.unsw.edu.au/).  
 
 **My rules of study**:
-* I spend 3-4 weeks in total on my coursework during each term.
+* I spend 3-4 weeks (out of 12 weeks) in total on my coursework during each term and the rest of time doing cool things.
 * Keeping WAM above HD is only because it is the requirement of PhD scholarships.
 * D.W.I.C (doing well in class) is never enough!
 
