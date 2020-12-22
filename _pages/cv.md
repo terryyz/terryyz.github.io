@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "RESUME"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-To see the full version: [CV](/cv.pdf)
+To see the full version: [RESUME](/resume.pdf)
 
 Education
 ======
