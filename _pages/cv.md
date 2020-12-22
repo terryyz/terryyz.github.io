@@ -14,7 +14,7 @@ Education
 
 * B.S. in Computer Science (Electrical Engineering minor), University of New South Wales, 2021 (expected)
 * Start Honors Year in Computer Science, 2022 (expected)
-* Looking for PhD opportunities
+* Looking for PhD opportunities in 2022-2023
 
 Work experience
 ======
