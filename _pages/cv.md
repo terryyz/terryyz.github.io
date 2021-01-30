@@ -18,22 +18,28 @@ Education
 
 Work experience
 ======
-* Dec 2020 - Present: Applied AI Scientist Intern
+* Feb 2021 - Present: Casual Academic
+  * School of CSE, University of New South Wales
+  * Term 1, 2021: [COMP2521](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP2521), [COMP9020](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP9020), [COMP9021](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP9021), [COMP9024](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP9024)
+
+* Dec 2020 - Jan 2021: Applied AI Scientist Intern
   * Harrison.ai
   * Work with: Dr [Ben Hachey](http://benhachey.info/)
 
-* Dec 2020 - Present: Research Assistant
-  * Data61
-  * Work with: Prof [Conrad Sanderson](https://conradsanderson.id.au/)
+* Dec 2020 - Present: [PyArmadillo](https://pyarma.sourceforge.io/) Developer
+  * Work with: Prof [Conrad Sanderson](https://conradsanderson.id.au/) & [Jason Rumengan](https://www.jasonrumengan.my.id/)
 
 * May 2020 - Present: Research Assistant
   * Monash University
-  * Duties included: Investigating Commonsense reasoning topics
+  * Duties included: Investigating commonsense reasoning topics
   * Supervisor: Prof [Reza Haffari](http://users.monash.edu.au/~gholamrh/) & Dr [Lizhen Qu](https://research.monash.edu/en/persons/lizhen-qu)
   * Work with: Dr [Xiaojun Chang](https://www.xiaojun.ai/)
 
 * Feb 2020 - Present: Casual Academic
   * School of EE&T, University of New South Wales
+  * Term 1, 2021: ...
+  * Term 3, 2020: [ENGG1000](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG1000), [ELEC2134](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG2134)
+  * Term 1, 2020: [ENGG1000](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG1000), [ELEC2134](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG2134)
 
 * Nov 2019 - Sep 2020: Research Student
   * [CQC2T, UNSW](https://www.cqc2t.org/)
@@ -44,11 +50,6 @@ Work experience
   * Microsoft, Shanghai
   * Team: Azure Adoption
   * Supervisor: Yiyu Liu (_yiyli at microsoft dot com_)
-  
-Teaching
-======
-* [ENGG1000: Introduction to Engineering Design and Innovation](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/ENGG1000)
-* [ELEC2134: Circuits and Signals](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/elec2134) 
 
 Service and leadership
 ======
