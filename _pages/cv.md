@@ -20,7 +20,7 @@ Work experience
 ======
 * Feb 2021 - Present: Casual Academic
   * School of CSE, University of New South Wales
-  * Term 1, 2021: [COMP2521](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP2521), [COMP9020](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP9020), [COMP9021](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP9021), [COMP9024](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP9024)
+  * Term 1, 2021: [COMP1531](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP1531?year=2021), [COMP2521](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP2521), [COMP9020](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP9020), [COMP9021](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP9021), [COMP9024](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP9024)
 
 * Dec 2020 - Jan 2021: Applied AI Scientist Intern
   * Harrison.ai
