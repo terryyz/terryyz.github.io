@@ -19,9 +19,9 @@ This is Terry Yue Zhuo [@MONASHINFO](https://umlt.infotech.monash.edu/) & [@UNSW
 News:
 ======
 * **2021**: I will have a gap period before my Honors Year (Sep 2021 - Mar 2022). Actively looking for visiting opportunities/research internships!
-* **Feb 2021** I'm teaching 7 courses this term :D
-* **Jan 2021** I had a great time @[Harrison.ai](https://www.harrison.ai/) as an intern :P
-* **Jan 2021** I'm co-developing [PyArmadillo](https://pyarma.sourceforge.io/) with [Conrad Sanderson](http://conradsanderson.id.au/) and [Jason Rumengan](https://www.jasonrumengan.my.id/). Will release soon!
+* **Feb 2021**: I'm teaching 7 courses this term :D
+* **Jan 2021**: I had a great time @[Harrison.ai](https://www.harrison.ai/) as an intern :P
+* **Jan 2021**: I'm co-developing [PyArmadillo](https://pyarma.sourceforge.io/) with [Conrad Sanderson](http://conradsanderson.id.au/) and [Jason Rumengan](https://www.jasonrumengan.my.id/). Will release soon!
 * ~~**Dec 2020**: I start working on [Armadillo](http://arma.sourceforge.net/) API in Python (will be open-source) with [Conrad Sanderson](http://conradsanderson.id.au/).~~ 
 * ~~**Dec 2020**: I joined [Harrison.ai](https://www.harrison.ai/) as an Applied AI Scientist Intern! Happy to work with [Ben Hachey](http://benhachey.info/):)~~
 * ~~**Nov 2020**: I rejected [TOR scholarship](https://www.engineering.unsw.edu.au/student-life/taste-of-research/advertised-taste-of-research-areas) offered by [Abdallah Saffidine](https://cgi.cse.unsw.edu.au/~abdallahs/) for some reasons. Hence, 
