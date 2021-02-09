@@ -37,7 +37,7 @@ Work experience
 
 * Feb 2020 - Present: Casual Academic
   * School of EE&T, University of New South Wales
-  * Term 1, 2021: ...
+  * Term 1, 2021: [ENGG1000](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG1000), [ELEC2134](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG2134)
   * Term 3, 2020: [ENGG1000](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG1000), [ELEC2134](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG2134)
   * Term 1, 2020: [ENGG1000](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG1000), [ELEC2134](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG2134)
 

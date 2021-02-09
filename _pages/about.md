@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Terry Yue Zhuo [@MONASHINFO](https://umlt.infotech.monash.edu/) & [@UNSW](https://www.unsw.edu.au/).  
+This is Terry Yue Zhuo [@MONASHINFO](https://umlt.infotech.monash.edu/) & [@UNSW](https://www.unsw.edu.au/).
 
 **My Rules**:
 * I spend 3-4 weeks (out of 12 weeks) in total on my coursework during each term and the rest of my time doing cool things and chilling.
