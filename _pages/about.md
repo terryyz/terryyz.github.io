@@ -21,6 +21,7 @@ This is Terry Yue Zhuo [@MONASHINFO](https://umlt.infotech.monash.edu/) & [@UNSW
 News:
 ======
 * **2021**: I will have a gap period before my Honors Year (Sep 2021 - Mar 2022). Actively looking for visiting opportunities/research internships!
+* **Mar 2021**: I was invited by [Ekaterina Vylomova](https://scholar.google.ru/citations?hl=en&user=JlVHhVUAAAAJ&view_op=list_works&sortby=pubdate) to be the teaching assistant of [FIT5217: Natural Language Processing](https://handbook.monash.edu/2021/units/FIT5217).
 * **Feb 2021**: I'm teaching 7 courses this term :D
 * **Jan 2021**: I had a great time @[Harrison.ai](https://www.harrison.ai/) as an intern :P
 * **Jan 2021**: I'm co-developing [PyArmadillo](https://pyarma.sourceforge.io/) with [Conrad Sanderson](http://conradsanderson.id.au/) and [Jason Rumengan](https://www.jasonrumengan.my.id/). Will release soon!

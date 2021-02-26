@@ -18,6 +18,10 @@ Education
 
 Work experience
 ======
+* Feb 2021 - Present: Teaching Assistant
+  * Faculty of IT, Monash University
+  * Semester 1, 2021: [FIT5217](https://handbook.monash.edu/2021/units/FIT5217)
+
 * Feb 2021 - Present: Casual Academic
   * School of CSE, University of New South Wales
   * Term 1, 2021: [COMP1531](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP1531?year=2021), [COMP2521](https://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP2521), [COMP9020](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP9020), [COMP9021](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP9021), [COMP9024](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP9024)
