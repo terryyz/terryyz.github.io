@@ -9,7 +9,7 @@ redirect_from:
 
 To see the full version: [Resume](/resume.pdf)
 
-Education
+<!-- Education
 ======
 
 * B.S. in Computer Science (Electrical Engineering minor), University of New South Wales, 2021 (expected)
@@ -59,4 +59,4 @@ Service and leadership
 ======
 
 * Academics Team Subcommittee [@ESLOC](http://www.elsoc.net/)
-* Power Engineer [@BLUESAT](https://bluesat.com.au/)
+* Power Engineer [@BLUESAT](https://bluesat.com.au/) -->
